@@ -1,3 +1,1 @@
-3. Write a JavaScript program to get the current date.
-Expected Output : 
-mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy 
+Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
